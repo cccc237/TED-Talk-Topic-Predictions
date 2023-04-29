@@ -1,5 +1,8 @@
 # TED-Talk-Topic-Predictions
 
+[Final Report.pdf](https://github.com/cccc237/TED-Talk-Topic-Predictions/files/11358286/Final.Report.pdf)
+
+
 ## Introduction
 
 TED talks are videos online that present an idea within 18 minutes to ensure audiences are attentive throughout the entire talk. However, transcripts are often long and tedious to read through. Speakers also have to spend a certain amount of time to determine the most suitable and interesting title for the talk. To help shorten the time it takes to categorize the talks for events or time it takes to search, our team is aiming to predict the theme of the talk using machine learning from the script.[1] Moreover, to help give an idea to all TED Talk listeners and the public on how many related groups of words were used among the accumulated TED Talks over the past few years, our team would also generate graphs consisting of clusters of data points.
