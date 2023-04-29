@@ -1,6 +1,6 @@
 # TED-Talk-Topic-Predictions
 
-[Final Report.pdf](https://github.com/cccc237/TED-Talk-Topic-Predictions/files/11358286/Final.Report.pdf)
+Please view the final report for details: [Final Report.pdf](https://github.com/cccc237/TED-Talk-Topic-Predictions/files/11358286/Final.Report.pdf)
 
 
 ## Introduction
